@@ -42,6 +42,6 @@ The idea for the app consists of 4 main screens:
 
 In the next screenshots you can see a draft version of the result!
 
-![Screenshot_1](screenshot1.jpg)
-![Screenshot_2](screenshot2.jpg)
-![Screenshot_3](screenshot3.jpg)
+![Screenshot_1](screenshot1.jpg | width=100)
+![Screenshot_2](screenshot2.jpg | width=100)
+![Screenshot_3](screenshot3.jpg | width=100)
